@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BE0AD8-9E2E-41A3-828C-2D6F39989F40}|Modelo\\Modelo.csproj|c:\\users\\sena\\source\\repos\\proyectocapas\\modelo\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BE0AD8-9E2E-41A3-828C-2D6F39989F40}|Modelo\\Modelo.csproj|solutionrelative:modelo\\basededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BE0AD8-9E2E-41A3-828C-2D6F39989F40}|Modelo\\Modelo.csproj|c:\\users\\sena\\source\\repos\\proyectocapas\\modelo\\conexionmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BE0AD8-9E2E-41A3-828C-2D6F39989F40}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexionmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|c:\\users\\sena\\source\\repos\\proyectocapas\\principal\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\vistaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\vistaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\vistaempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\vistaempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\ingresaradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\ingresaradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\sistemausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\sistemausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\principal\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4EB22C3-1159-447D-AF05-4A6E86550C4C}|Principal\\Principal.csproj|solutionrelative:principal\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Modelo\\BaseDeDatos.cs",
+              "RelativeDocumentMoniker": "Modelo\\BaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Modelo\\BaseDeDatos.cs",
+              "RelativeToolTip": "Modelo\\BaseDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:06:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionMySql.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Modelo\\ConexionMySql.cs",
+              "RelativeDocumentMoniker": "Modelo\\ConexionMySql.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Modelo\\ConexionMySql.cs",
+              "RelativeToolTip": "Modelo\\ConexionMySql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:07:53.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\index.cs",
+              "RelativeDocumentMoniker": "Principal\\index.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\index.cs",
+              "RelativeToolTip": "Principal\\index.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:04:37.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VistaProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\VistaProductos.cs",
+              "RelativeDocumentMoniker": "Principal\\VistaProductos.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\VistaProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\VistaProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:50:57.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vistaEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\vistaEmpleado.cs",
+              "RelativeDocumentMoniker": "Principal\\vistaEmpleado.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\vistaEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\vistaEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:44:03.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\index.cs",
+              "RelativeDocumentMoniker": "Principal\\index.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\index.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\index.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:37:37.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sistemaUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\sistemaUsuario.cs",
+              "RelativeDocumentMoniker": "Principal\\sistemaUsuario.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\sistemaUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\sistemaUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:37:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IngresarAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\IngresarAdmin.cs",
+              "RelativeDocumentMoniker": "Principal\\IngresarAdmin.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\IngresarAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\IngresarAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:38:05.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\Empleados.cs",
+              "RelativeDocumentMoniker": "Principal\\Empleados.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\Empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:37:52.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Factura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\Factura.cs",
+              "RelativeDocumentMoniker": "Principal\\Factura.cs",
+              "ToolTip": "C:\\Users\\SENA\\source\\repos\\ProyectoCapas\\Principal\\Factura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\Factura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:38:00.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

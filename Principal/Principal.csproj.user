@@ -4,10 +4,34 @@
     <Compile Update="CrearLibroFrom.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IngresarAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IngresarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="MenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="MostrarLibroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sistemaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vistaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VistaProductos.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -38,3 +38,13 @@ C:\Users\SENA\source\repos\ProyectoCapas\Principal\bin\Debug\net8.0-windows\runt
 C:\Users\SENA\source\repos\ProyectoCapas\Principal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\SENA\source\repos\ProyectoCapas\Principal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\SENA\source\repos\ProyectoCapas\Principal\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.Empleados.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.Factura.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.index.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.IngresarAdmin.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.IngresarEmpleado.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.Properties.Resources.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.sistemaUsuario.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.vistaEmpleado.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.VistaProductos.resources
+C:\Users\SENA\source\repos\ProyectoCapas\Principal\obj\Debug\net8.0-windows\Principal.sourcelink.json
